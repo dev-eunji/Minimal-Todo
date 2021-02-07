@@ -11,7 +11,7 @@
         android:theme="@style/Theme.todo">
         <activity android:name="com.minimal.todo.addedit.AddEditTaskActivity" />
         <activity android:name="com.minimal.todo.taskdetail.TaskDetailActivity" />
-        <activity android:name="com.minimal.todo.task.MainActivity">
+        <activity android:name="com.minimal.todo.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
